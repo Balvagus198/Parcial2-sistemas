@@ -1,0 +1,6 @@
+Tabla de Átomos:
+Variables | Valor | Reglas
+{'X': True, 'Y': True} | Resultados: X: V, X: V, X ∧ Y: V, X: V, X: V, X: V
+{'X': True, 'Y': False} | Resultados: X: V, X: V, X ∧ Y: F, X: V, X: V, X: V
+{'X': False, 'Y': True} | Resultados: X: F, X: F, X ∧ Y: F, X: F, X: F, X: F
+{'X': False, 'Y': False} | Resultados: X: F, X: F, X ∧ Y: F, X: F, X: F, X: F
